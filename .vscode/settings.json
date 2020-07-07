@@ -1,0 +1,12 @@
+{
+  "actionButtons": {
+    "loadNpmCommands": false,
+    "reloadButton": null,
+    "commands": [
+        {
+          "name": "Open in OpenSCAD",
+          "command": "open ${file}",
+        }
+    ]
+  },
+}
