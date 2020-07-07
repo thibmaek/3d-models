@@ -5,7 +5,7 @@
     "commands": [
         {
           "name": "Open in OpenSCAD",
-          "command": "open ${file}",
+          "command": "open \"${file}\"",
         }
     ]
   },
